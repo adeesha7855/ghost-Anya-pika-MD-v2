@@ -13,7 +13,7 @@ global.DocumentTitle = "𓄂⍣⃝🇶‌𝚞𝚎𝚎𝚗 🇦𝚗𝚢𝚊  𓆩
 
 
 global.ownername = "𓄂⍣⃝🇶‌𝚞𝚎𝚎𝚗 🇦𝚗𝚢𝚊  𓆩×͜×𓆪"   // Owner name //        
-global.ownernumber = ['+94716132814'] 
+global.ownernumber = ['94716132814'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Sawana TV"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -26,8 +26,8 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','917355******']  // Co - Owners //
+global.premium = ['94716132814','94716132814']  // available soon
+global.sudo = ['94716132814','94716132814']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
